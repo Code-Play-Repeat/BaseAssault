@@ -2,5 +2,5 @@ Class database project from CSE 111. A simple database to keep track of user inf
 In order to view the program files you need to have java installed.
 In order to view the database files you need sqlite3 and sqlitestudio-2.1.2 or higher version.
 A better view of the gui aspect of the application can be achieved using NetBeans IDE 7.2.1 or higher version.
-An important reminder if using netbeans, both the .java and .form version of the files are important for viewing properly.
+An important reminder if using NetBeans, both the .java and .form version of the files are important for viewing properly.
 The .java files contain the code while the .form files contain the gui format and make the gui editable and viewable in NetBeans.
