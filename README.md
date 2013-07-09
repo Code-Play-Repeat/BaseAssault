@@ -1,8 +1,8 @@
 Database for Base Assault Project
 ----------------------------------
 
-Class database project from CSE 111 Databases.
-==============================================
+University of California, Merced Class database project from CSE 111 Databases.
+===============================================================================
 
 * A simple database to keep track of user information for a mobile app game called Base Assault using sqlite.
 * All you need to run the program is java and download the excutable .jar file along with the BasseAssult file from the folder BaseAssault Executable Jar file.
