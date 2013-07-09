@@ -1,7 +1,7 @@
 Database for Base Assault Project
 ----------------------------------
 
-University of California, Merced Class database project from CSE 111 Databases.
+University of California, Merced Class database project from CSE 111 Databases
 ===============================================================================
 
 * A simple database to keep track of user information for a mobile app game called Base Assault using sqlite.
